@@ -4,6 +4,7 @@ const TestBegaym = () => {
     return (
         <div>
             Test page
+            rewrwrwerwrqewwrqre
             </div>
     );
 };
